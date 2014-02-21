@@ -1,0 +1,2 @@
+brigopedia-config
+=================
